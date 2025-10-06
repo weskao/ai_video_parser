@@ -14,7 +14,14 @@ A Python script to parse YouTube Shorts HTML files and generate a summary report
 
 ## Setup
 
-1. Place HTML files in `html` folder:
+
+1. Ensure Python ≥ 3.7 is installed:
+
+    ```python
+    python --version
+    ```
+
+2. Place your YouTube HTML files in the `html` folder:
 
     ```text
     project/
@@ -22,12 +29,6 @@ A Python script to parse YouTube Shorts HTML files and generate a summary report
     │  ├─ example1.html
     │  ├─ example2.html
     ├─ parse_yt_shorts_html.py
-    ```
-
-2. Install Python ≥3.7 (no extra packages required):
-
-    ```python
-    python --version
     ```
 
 ## Usage
