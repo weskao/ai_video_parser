@@ -14,7 +14,7 @@ A Python script to parse YouTube Shorts HTML files and generate a summary report
 
 ## Setup
 
-1. Ensure Python ≥ 3.7 is installed:
+1. Ensure Python is installed:
 
     ```python
     python --version
