@@ -97,3 +97,7 @@ STOPWORDS = set([
 - Supports old and new YouTube HTML formats.
 - Parses Chinese view numbers (萬, 億).
 - If VS Code is unavailable, results are still saved to `result` folder.
+
+## 📄 License
+
+This project is licensed under the terms of the MIT open source license. Please refer to the [LICENSE](./LICENSE) file for the full terms.
